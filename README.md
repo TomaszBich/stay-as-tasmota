@@ -9,6 +9,6 @@ The issue is that even setoption19 0 has been executed in Tasomta console the de
 
 All you need to do:
 
-1. Go to configuration --> Restore Configuration --> Browse the config file from my repository --> Start Restore 
+1. Go to configuration --> Restore Configuration --> Browse the config file from my repository ( https://github.com/TomaszBich/stay-as-tasmota/raw/main/Config_26102021_10.0.0.dmp ) --> Start Restore 
 
 ![obraz](https://user-images.githubusercontent.com/74622130/138905107-8df8992a-8e86-4b3e-b431-4c24fd42b9da.png)
